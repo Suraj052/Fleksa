@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "866562360257",
+    "firebase_url": "https://suru-5e6b2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "suru-5e6b2",
+    "storage_bucket": "suru-5e6b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866562360257:android:2328d11ee7244a6b056540",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866562360257-upn514qknet7g470d3173im03l7811go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4fXyoXeOfnMN9BD_p6vwg_WgU_6XY-8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866562360257-upn514qknet7g470d3173im03l7811go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866562360257:android:d913ebf1da790e41056540",
+        "android_client_info": {
+          "package_name": "com.example.fleksa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866562360257-upn514qknet7g470d3173im03l7811go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4fXyoXeOfnMN9BD_p6vwg_WgU_6XY-8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866562360257-upn514qknet7g470d3173im03l7811go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
